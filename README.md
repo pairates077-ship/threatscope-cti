@@ -26,3 +26,19 @@ threatscope-cti/
 ├── requirements.txt       # Dependencies
 ├── main.py                # Pipeline entry point
 └── README.md              # Project documentation
+
+
+
+Getting Started
+1. Clone the Repository
+Bash
+git clone [https://github.com/pairates077-ship/threatscope-cti.git](https://github.com/pairates077-ship/threatscope-cti.git)
+cd threatscope-cti
+2. Install Dependencies
+Bash
+pip install -r requirements.txt
+3. Run Threat Analysis
+Bash
+python main.py
+License
+Distributed under the MIT License. See LICENSE for more information.
